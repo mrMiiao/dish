@@ -1,0 +1,10 @@
+[package]
+name = "dish"
+version = "0.0.1"
+edition = "2021"
+authors = ['Miiao']
+repository = 'https://github.com/mrMiiao/dish'
+description = 'Addition to core'
+readme = 'README.md'
+license = 'MPL-2.0'
+keywords = ['core']
